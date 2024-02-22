@@ -1,24 +1,3 @@
-/* USER CODE BEGIN Header */
-/**
-  ******************************************************************************
-  * @file           : main.c
-  * @brief          : Main program body
-  ******************************************************************************
-  * @attention
-  *
-  * Copyright (c) 2022 STMicroelectronics.
-  * All rights reserved.
-  *
-  * This software is licensed under terms that can be found in the LICENSE file
-  * in the root directory of this software component.
-  * If no LICENSE file comes with this software, it is provided AS-IS.
-  *
-  * Test RTOS, SEMA, QUEUE CON 1 Y VARIOS VALORES, CON INT/ISR
-  *
-  * Queues con más valores, Mutex, Sema Cont, VList NO, VSuspend NO.
-  * pdMS_TO_TICKS, tarea con interrupciones sincrónicas.
-  ******************************************************************************
-  */
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
